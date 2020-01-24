@@ -1,0 +1,15 @@
+.container1
+{
+    
+    border: 3px solid black;
+    width: auto;
+    text-align: center;
+    justify-content: space-around;
+}
+.container2
+{
+    display: flex;
+    border: 4px solid blue;
+    margin: auto;
+    justify-content: space-around;
+}
